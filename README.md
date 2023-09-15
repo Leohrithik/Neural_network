@@ -1,3 +1,7 @@
+<h3 align="center">ML-Weather Prediction🌦</h3>
+
+
+
 
 - A simple machine learning model using ***KNN,GaussianNB,SVC algorithms***
 - Also used ***SVMSMOTE*** in order to balance the dataset using oversampling Method
